@@ -1,6 +1,6 @@
 Green Security Initiative (GSI) — Website scaffold
 
-This workspace contains a multi-page static website scaffold for the Green Security Initiative. Pages are intentionally populated with official text where provided and placeholders where official GSI/CAN-K documents are required.
+This workspace contains a multi-page static website scaffold for the Green Security Initiative. Pages are intentionally populated with official text where provided and placeholders where further official GSI information is required.
 
 How to use
 
